@@ -1,0 +1,4 @@
+.env
+.venv/
+bot_history.db
+bot_access.log
